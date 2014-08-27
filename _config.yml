@@ -2,9 +2,9 @@ baseurl: /starter
 permalink: pretty
 markdown: kramdown
 paginate: 5
-repo: starter
+repo: vancouver
 github_org: maptime
 maptime:
-  chapter: Meetup name
-  twitter: YourName
+  chapter: Maptime Vancouver
+  twitter: maptimevan
   #disqus: YOUR DISQUS USERNAME
