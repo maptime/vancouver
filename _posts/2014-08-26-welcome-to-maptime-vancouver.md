@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Welcome to Maptime Vancouver!
+author: Cecily
 ---
 
 Maptime is **time for mapmaking**. We want to open the doors of mapmaking and cartography to everyone, regardless of knowledge, technical experience, or background. If you can find time to make maps, and if you enjoy collaborative learning in a supportive environment, **Maptime! is for you!**

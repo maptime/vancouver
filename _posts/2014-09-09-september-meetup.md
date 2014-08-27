@@ -3,7 +3,6 @@ layout: event
 category: event
 title: Maptime Vancouver September Meetup
 rsvp: http://www.eventbrite.ca/e/september-maptime-meetup-tickets-12766628329
-author: Cecily
 ---
 
 We have a date! We have space!
