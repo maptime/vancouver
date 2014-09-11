@@ -1,4 +1,4 @@
-baseurl: /starter
+baseurl: /vancouver
 permalink: pretty
 markdown: kramdown
 paginate: 5
@@ -6,5 +6,5 @@ repo: vancouver
 github_org: maptime
 maptime:
   chapter: Maptime Vancouver
-  twitter: maptimevan
+  twitter: maptimeYVR
   #disqus: YOUR DISQUS USERNAME
