@@ -2,7 +2,7 @@
 layout: event
 category: event
 title: Another Maptime Vancouver September Meetup
-rsvp: https://www.eventbrite.ca/e/maptimeyvr-meetup-tickets-13063018841s-12766628329
+rsvp: https://www.eventbrite.ca/e/maptimeyvr-meetup-tickets-13063018841
 ---
 
 Come join our group of happy mappers!
