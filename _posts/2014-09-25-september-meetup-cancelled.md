@@ -1,6 +1,6 @@
 ---
-layout: event
-category: event
+layout: post
+category: post
 title: September Meetup Cancelled
 rsvp:
 ---
