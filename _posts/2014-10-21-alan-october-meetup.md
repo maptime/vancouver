@@ -1,7 +1,7 @@
 ---
 layout: post
 category: post
-title: Come Hear Alan McConchie of #Maptime at the October Meeting!
+title: Alan McConchie at the October #MaptimeYVR Meeting!
 rsvp:
 ---
 
