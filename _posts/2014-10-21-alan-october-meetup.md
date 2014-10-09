@@ -9,6 +9,6 @@ rsvp:
 
 Alan will give a talk on the Anatomy of a Web Map, and will be on hand to answer any questions you have on all things mapping.
 
-We'll meet on Tuesday, October 21 the BC Libraries Cooperative, 605 Robson Street, Suite 850. The meeting will start at 6:30 pm and go until about 8pm.
+We'll meet on Tuesday, October 21 the BC Libraries Cooperative, 605 Robson Street, Suite 850. The meeting will start at 6:30 pm and go until about 8pm. [Registration is free](http://maptime.github.io/vancouver/event/2014/10/21/october-meetup/), but seats are limited. 
 
 You don't want to miss this event. See you there!
