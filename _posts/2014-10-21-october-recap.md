@@ -11,6 +11,6 @@ Were you at the October Meetup? If you were, then you know we had a great sessio
 
 A lot of new people showed up, which was great! There was a range of experience and interests, from hardcore GISers to people who are only starting out with maps. We even had someone who was interested in attaching cameras to balloons and kites to collect mapping data, and one person who is working with the [BC Cycling Coalition](http://www.bccc.bc.ca) to map all the bicycle touring routes across the province. 
 
-We're just getting started in Vancouver, but MaptimeYVR doesn't work without you. Our next meetup will be an open hacking night. Bring your questions, project ideas you want to workshop, and any knowldedge you want to share with the rest of the happy map geeks. See you in November!
+We're just getting started in Vancouver, but MaptimeYVR works best when we all pitch in. Our November meetup will be an open hack night. Bring your questions, project ideas you want to workshop, and any knowldedge you want to share with the rest of the happy map geeks. See you in November!
 
 _Special thanks to the [BC Libraries Cooperative](https://bc.libraries.coop) and Maryann K. for allowing us to use Co-op's meeting space and wifi for our meetings._
