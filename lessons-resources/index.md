@@ -1,6 +1,6 @@
 ---
-layout: post
-title: Lessons &amp; Resources
+layout: default
+title: Lessons and Resources
 author: Cecily
 ---
 Web-based maps
