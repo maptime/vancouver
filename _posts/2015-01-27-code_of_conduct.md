@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Cod of Conduct
+title: Code of Conduct
 author: Sarah
 
 ---
