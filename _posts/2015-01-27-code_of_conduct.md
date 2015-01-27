@@ -1,6 +1,9 @@
-layout: default
-title: Code of Conduct
+---
+layout: post
+title: Cod of Conduct
 author: Sarah
+
+---
 
 Maptime is place of learning and fun. A primary goal of Maptime is to be inclusive to the largest number of contributors, with the most varied and diverse backgrounds possible. As such, we are committed to providing a friendly, safe and welcoming environment for all, regardless of gender, sexual orientation, ability, ethnicity and race, socioeconomic status, and religion (or lack thereof).
 

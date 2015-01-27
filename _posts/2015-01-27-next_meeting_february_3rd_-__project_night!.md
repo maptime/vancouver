@@ -1,6 +1,4 @@
-layout: default
-title: Next Meeting February 3rd Project Night!
-author: Sarah
+#Next Meeting February 3rd -  Project Night!
 
 Hi All! Our February meetings are planned and ready to go, and we are excited about it. This coming Tuesday we will arrange a Project Night, where you can bring things you are working on, questions you want answered and ideas that need enablers.
 
