@@ -3,7 +3,6 @@ layout: post
 title: Next Meeting February 3rd - Project Night
 author: Sarah
 rsvp: http://www.meetup.com/MaptimeYVR/events/220147217/
-
 ---
 
 
