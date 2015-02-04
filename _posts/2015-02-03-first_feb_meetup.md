@@ -1,9 +1,8 @@
 
 ---
 layout: post
-title: such good project night. wow.  
+title: such good project night wow  
 author: Sarah
-
 --- 
 
 Thanks to all of you who came out and shared ideas and got the ball rolling on our very special, secret, super cool #MaptimeYVR project.... 
