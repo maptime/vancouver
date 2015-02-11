@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: event
 title: Next Meetup February 17th: Better Git it Into Your Soul
 author: Sarah
 rsvp: http://www.meetup.com/MaptimeYVR/events/220451539/
@@ -16,12 +16,12 @@ Before you arrive, make a [GitHub account](https://help.github.com/articles/sign
 
 Remember to bring your own computer, and as always, beginners are very welcome!
 
-**what - ** GitHub Intro
+**what** - GitHub Intro
 
-**where - ** BC Libraries Cooperative, 605 Robson Street, Suite 850
+**where** - BC Libraries Cooperative, 605 Robson Street, Suite 850
 
-**date - ** February 17th 
+**date** - February 17th 
 
-**time - ** 6.00 - 8.00
+**time** - 6.00 - 8.00
 
 One of us will be down in the lobby to swipe you in until 6.15, but if you arrive after that, tweet us [@maptimeYVR](https://twitter.com/maptimeYVR), or send us an email maptimeYVR@gmail.com and we will come down to let you in.
