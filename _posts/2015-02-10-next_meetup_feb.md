@@ -3,6 +3,7 @@ layout: event
 title: Next Meetup February 17th: Better Git it Into Your Soul
 author: Sarah
 rsvp: http://www.meetup.com/MaptimeYVR/events/220451539/
+
 --- 
 
 
