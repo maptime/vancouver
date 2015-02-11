@@ -4,9 +4,7 @@ category: event
 title: Next Meetup February 17th - Better Git it Into Your Soul
 author: Sarah
 rsvp: http://www.meetup.com/MaptimeYVR/events/220451539/
-
 --- 
-
 
 Ever wondered what this thing called GitHub is and why webmappers are all about it? Scratched your head and thought ‘how the fork do I make a repo’? Wanna branch out and commit to a new issue? Are you thinking those last sentences sound like gibberish? You won’t after you’ve come to our next Maptime meetup!
 
