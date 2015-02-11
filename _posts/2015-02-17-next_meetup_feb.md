@@ -27,5 +27,3 @@ Remember to bring your own computer, and as always, beginners are very welcome!
 **time** - 6.00 - 8.00
 
 One of us will be down in the lobby to swipe you in until 6.15, but if you arrive after that, tweet us [@maptimeYVR](https://twitter.com/maptimeYVR), or send us an email maptimeYVR@gmail.com and we will come down to let you in.
-
-Pay no attention to the date next to the buttons on this site, we are still meeting on the 17th, and will fix our code (in github) shortly!
