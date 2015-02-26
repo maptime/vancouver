@@ -11,4 +11,8 @@ Amr will start off with a minitutorial on how github and maps go together, and t
 
 Bring your laptop, and as always, beginners are very welcome.
 
+*When* 6.00 - 8.00 March 3rd
+
+*Where*  BC Libraries Coop, 605 Robson Street, Suite 850,
+
 One of our members will be downstairs to let everyone in, until 6.15, so do try to make it by then! Contact us at maptimeyvr@gmail.com if you're outside after this.
