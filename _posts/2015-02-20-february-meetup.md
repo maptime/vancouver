@@ -10,4 +10,4 @@ Thanks to all of you who made it out for this week’s Maptime. What a great tur
 
 Our next meeting will be a project night, on Tuesday March 3rd. Stay tuned for more info!
 
-Maptime is for everyone regardless of background, technical skill. Maptime is for **you**! We welcome anyone wanting to share, learn, and teach anything related to cartography. 
+Maptime is for everyone regardless of background, technical skill. Maptime is for **you**! We welcome anyone wanting to share, learn, and teach anything related to cartography
