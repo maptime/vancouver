@@ -1,7 +1,7 @@
 ---
 layout: event
 category: event
-title: Last March Meetup - Project Night!
+title: March Meetup - Project Night!
 author: Sarah
 rsvp: http://www.meetup.com/MaptimeYVR/events/221444998/
 ---
