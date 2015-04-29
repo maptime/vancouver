@@ -12,7 +12,9 @@ In addition to donating to a relief effort, you can help [Humanitarian Open Stre
 
 MaptimeHQ turned on the batsignal two days ago, mobilizing all chapters to assist in #HOTforNepal effort.
 
-MaptimeYVR spent Tuesday evening searching and plotting map features, and learning from each other as we went along. Thanks to the brilliant presentation by Clifford Snow last time, the majority of our members were familiar with the mapping process. 
+![batsignal](http://maptime.io/vancouver/img/batsignal.png)
+
+MaptimeYVR therefore spent Tuesday evening searching and plotting map features, and learning from each other as we went along. Thanks to the brilliant presentation by Clifford Snow last time, the majority of our members were familiar with the mapping process. 
 
 ![Mapping Nepal](http://maptime.io/vancouver/img/HOTforNepal.png) 
 
