@@ -7,6 +7,12 @@ rsvp: http://www.meetup.com/MaptimeYVR/events/223000751/?a=ce1_grp&rv=ce1&_af_ei
 ---
 MaptimeYVR is delighted to announce our next meetup event two weeks from now. In what will be a change of pace from the usual meetups, MaptimeYVR will have a collaboration with the City of Vancouver Archives to learn more about the Archives’ work in preserving the City’s open data (and, in particular) geodata.
 
+![Maps are timemachines too](http://maptime.io/vancouver/img/VancouverArchivesAM1594-MAP1006.png)
+
+![equals](http://maptime.io/vancouver/img/equal.png)
+
+![Maps are timemachines too](http://maptime.io/vancouver/img/delorean.png)
+
 There will be a presentation detailing the Archives’ preservation work, extensive historic map collection (including the recently digitized and publicly viewable [Goad’s fire insurance map](www.vancouverarchives.ca/2015/05/21/1912-historical-layer-now-available-in-vanmap/), the [digitization program](http://www.vancouverarchives.ca/2015/02/12/moving-historical-geodata-to-the-web/), as well as a discussion of future dream projects.
 
 Following the presentation there will be time for questions and discussion as well as opportunities to view the historic maps available in the Reading Room.
@@ -25,5 +31,3 @@ A huge thank you goes out to Sue Bigelow at the City of Vancouver Archives and e
 *Where*  Different Location! 1150 Chestnut St by Vanier Park in Kitsilano
 
 Maps are timemachines too! Come find out how!
-
-![Maps are timemachines too](http://maptime.io/vancouver/img/VancouverArchivesAM1594-MAP1006.png)
