@@ -1,9 +1,8 @@
 ---
 layout: event
 category: event
-title: June Meetup - Historic Maps, Digitization, and Open Data: A Night at the Vancouver Archives
+title: June Meetup - Historic Maps, Digitization, and Open Data - A Night at the Vancouver Archives
 author: Dmitry
-
 rsvp: http://www.meetup.com/MaptimeYVR/events/223000751/?a=ce1_grp&rv=ce1&_af_eid=223000751&_af=event
 ---
 
