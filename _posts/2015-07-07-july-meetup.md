@@ -27,3 +27,9 @@ We will do a step by step walk-through, and at the end, you’ll all walk away w
 To make the most of our time, it would be great if you come already signed up for the free [mapwarper](mapwarper.net) and [mapbox](mapbox.com)
 
 As always, beginners are very welcome at Maptime, and we will always take the time to answer your questions. Remember your laptop, and prepare for some timetravel!
+
+When 6.00 - 8.00 July 7th
+
+Where BC Libraries Coop, 605 Robson Street, Suite 850
+
+Thanks to Liam and the rest of the BC Libraries Coop for powering our group!
