@@ -3,7 +3,7 @@ layout: event
 category: event
 title: November Meetup - ...but Maptime wasn’t dead
 author: Sarah, Dmitry and Joey
-rsvp: insert meetup link here
+rsvp: http://www.meetup.com/MaptimeYVR/events/226878574/
 ---
 
 We know we’ve been quiet, but that ends now! **Maptime Vancouver is back** on track, with some exciting new changes. First of all, we are happy to announce that [Joey Lee](https://twitter.com/leejoeyk) is joining our organizing team, bringing plenty of mapping experience, fresh ideas and a patent smile to the mix.
