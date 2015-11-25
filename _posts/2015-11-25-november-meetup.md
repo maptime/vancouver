@@ -8,8 +8,12 @@ rsvp: http://www.meetup.com/MaptimeYVR/events/226878574/
 
 *** 
 
-# Join online via google hangouts at this link here:
+### Join online via google hangouts at this link here:
 [Maptime Hangout](https://talkgadget.google.com/hangouts/_/64k4cln4733ebc33n6zeaq7xxma)
+
+### Participate in the session with the etherpad link here:
+
+[Maptime Scribbles](https://public.etherpad-mozilla.org/p/2015-11-25-maptime-yvr-scribbles)
 
 *** 
 
