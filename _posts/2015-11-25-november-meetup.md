@@ -6,10 +6,12 @@ author: Sarah, Dmitry and Joey
 rsvp: http://www.meetup.com/MaptimeYVR/events/226878574/
 ---
 
-***
-Join online via google hangouts at this link here:
+*** 
+
+# Join online via google hangouts at this link here:
 [Maptime Hangout](https://talkgadget.google.com/hangouts/_/64k4cln4733ebc33n6zeaq7xxma)
-***
+
+*** 
 
 We know we’ve been quiet, but that ends now! **Maptime Vancouver is back** on track, with some exciting new changes. First of all, we are happy to announce that [Joey Lee](https://twitter.com/leejoeyk) is joining our organizing team, bringing plenty of mapping experience, fresh ideas and a patent smile to the mix.
 
