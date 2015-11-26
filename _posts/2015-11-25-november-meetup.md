@@ -15,6 +15,7 @@ rsvp: http://www.meetup.com/MaptimeYVR/events/226878574/
 
 [Maptime Scribbles](https://public.etherpad-mozilla.org/p/2015-11-25-maptime-yvr-scribbles)
 
+### The link to the tutorial is [here](https://github.com/joeyklee/cartodb-van311-example)
 *** 
 
 We know we’ve been quiet, but that ends now! **Maptime Vancouver is back** on track, with some exciting new changes. First of all, we are happy to announce that [Joey Lee](https://twitter.com/leejoeyk) is joining our organizing team, bringing plenty of mapping experience, fresh ideas and a patent smile to the mix.
@@ -29,7 +30,7 @@ To bring you light in the fall, we plan to kick off the #MaptimeYVR season with:
 
 1. What is Maptime? 
 2. What skills can we share? / What projects can we make?
-3. Walk away with your first web map! 
+3. Walk away with your first web map! The link to the tutorial is [here](https://github.com/joeyklee/cartodb-van311-example)
 
 
 Throughout the coming weeks we will post our schedule for the next little while, so stay tuned for more meetups!
