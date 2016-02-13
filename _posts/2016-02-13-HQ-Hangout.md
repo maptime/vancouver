@@ -9,4 +9,4 @@ As Maptime Vancouver organizers we have been scratching our heads trying to find
 
 Therefore we will shortly be posting info about our next Maptime meeting. Stay tuned - your patience will be rewarded!
 
-Maptime is for everyone regardless of background and technical skill. Maptime is for you! We welcome anyone wanting to share, learn, and teach anything related to cartography. We'd love to see your face at our next meetup. More info coming soon! 
+Maptime is for everyone regardless of background and technical skill. Maptime is for you! We welcome anyone wanting to share, learn, and teach anything related to cartography. We'd love to see your face at our next meetup. More info coming soon!   
