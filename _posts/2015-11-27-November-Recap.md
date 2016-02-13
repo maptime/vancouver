@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Recap: Conquering CartoDB
+title: Recap - Conquering CartoDB
 author: Sarah, Dmitry and Joey
 ---
 Thanks to all of you who came out to our November maptime. We were happy to see that you’re still interested in learning about Maps! Many thanks also, to Mark and Konkurito, for providing us with the space to meet.
