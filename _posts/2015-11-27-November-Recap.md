@@ -13,4 +13,4 @@ Some faces were new, and some faces were familiar, and we enjoyed seeing all of 
 
 We have received questions and requests for future workshops, and we greatly appreciate your input - it makes our task easier, and more meaningful. If you have any questions or comments, tweet us [@maptimeYVR](http://twitter.com/maptimeYVR)!
 
-Maptime is for everyone regardless of background and technical skill. Maptime is for you! We welcome anyone wanting to share, learn, and teach anything related to cartography. We'd love to see your face at our next meetup, Wednesday, December 9th at 6:00 pm. More info coming soon! 
+Maptime is for everyone regardless of background and technical skill. Maptime is for you! We welcome anyone wanting to share, learn, and teach anything related to cartography. We'd love to see your face at our next meetup, Wednesday, December 9th at 6:00 pm. More info coming soon!  
