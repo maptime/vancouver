@@ -6,6 +6,7 @@ title: February Meetup - Making a Scrolling Mapstory
 author: Sarah
 rsvp: http://www.meetup.com/MaptimeYVR/events/228887676/
 ---
+***
 
 ### Join online via google hangouts at this link here:
 [Maptime Hangout](https://talkgadget.google.com/hangouts/_/64k4cln4733ebc33n6zeaq7xxma)
