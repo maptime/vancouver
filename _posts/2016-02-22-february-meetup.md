@@ -3,7 +3,6 @@ layout: event
 category: event
 title: February Meetup - Making a Scrolling Mapstory
 author: Sarah
-rsvp: http://www.meetup.com/MaptimeYVR/events/228887676/
 ---
 
 
@@ -27,6 +26,8 @@ Maptime Organizer [Joey Lee](https://twitter.com/leejoeyk) will lead the stellar
 **When** 7.00 - 9.00 Monday February 22nd
 
 **Where** Koerner Library, UBC, room 153
+
+**RSVP:** http://www.meetup.com/MaptimeYVR/events/228887676/
 
 Bring a friend and come to Maptime - we are looking forward to seeing you there! 
 
