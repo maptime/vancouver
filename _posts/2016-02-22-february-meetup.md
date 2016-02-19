@@ -2,18 +2,9 @@
 layout: event
 category: event
 title: February Meetup - Making a Scrolling Mapstory
-author: Sarah 
+author: Sarah
+rsvp: http://www.meetup.com/MaptimeYVR/events/228887676/
 ---
-
-### Join online via google hangouts at this link here:
-[Maptime Hangout](https://talkgadget.google.com/hangouts/_/64k4cln4733ebc33n6zeaq7xxma)
-
-### Participate in the session with the etherpad link here:
-
-[Maptime Scribbles](https://public.etherpad-mozilla.org/p/2015-11-25-maptime-yvr-scribbles)
-
-### The link to the tutorial is [here](https://github.com/joeyklee/mapboxjs-scroll-driven-adventure)
-*** 
 
 
 Howdy Maptimers,
@@ -38,3 +29,12 @@ Maptime Organizer [Joey Lee](https://twitter.com/leejoeyk) will lead the stellar
 **Where** Koerner Library, UBC, room 153
 
 Bring a friend and come to Maptime - we are looking forward to seeing you there! 
+
+### Join online via google hangouts at this link here:
+[Maptime Hangout](https://talkgadget.google.com/hangouts/_/64k4cln4733ebc33n6zeaq7xxma)
+
+### Participate in the session with the etherpad link here:
+
+[Maptime Scribbles](https://public.etherpad-mozilla.org/p/2015-11-25-maptime-yvr-scribbles)
+
+### The link to the tutorial is [here](https://github.com/joeyklee/mapboxjs-scroll-driven-adventure)
