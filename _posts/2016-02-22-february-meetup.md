@@ -1,6 +1,5 @@
 ---
-layout: event
-category: event
+layout: post
 title: February Meetup - Making a Scrolling Mapstory
 author: Sarah
 ---
