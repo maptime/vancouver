@@ -1,4 +1,3 @@
-
 ---
 layout: event
 category: event
@@ -26,14 +25,14 @@ We’ve finally found a venue that can host us, and a lot of us too! We are real
 
 For our first Maptime of 2016, we are going to make a story with maps. Using some CSS and Javascript, sprinkled with some html and a pinch of detective work, you will come from our tutorial with you very own map.
 
-On example of what we will be teaching, can be found [here](https://www.mapbox.com/tutorial-sherlock/)
+One example of what we will be teaching, can be found [here](https://www.mapbox.com/tutorial-sherlock/)
 
 If you think it looks complicated, don’t worry - we will be there to guide you through it. After all, "the reason why the web has progressed so quickly is because people have gotten really good at taking other people's html/css/javascript code and building ontop of it. Instead of re-inventing the wheel, we've been able to learn from the work of others.
 
 If we can begin deconstructing and reconstructing the elements of other people's web projects, we learn through this process of making and breaking in ways we previously might not have been able to do." 
 ([from the online tutorial](https://github.com/joeyklee/mapboxjs-scroll-driven-adventure))
 
-Maptime Organizer [Joey Lee](https://twitter.com/leejoeyk) will lead the stellar tutorial he made. As always, beginners are very welcome at Maptime, and we will always take the time to answer your questions.
+Maptime Organizer [Joey Lee](https://twitter.com/leejoeyk) will lead the stellar tutorial he has made for the occasion. As always, beginners are very welcome at Maptime, and we will always take the time to answer your questions.
 
 **When** 7.00 - 9.00 Monday February 22nd
 
