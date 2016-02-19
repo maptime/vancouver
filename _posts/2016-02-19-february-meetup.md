@@ -3,6 +3,7 @@ layout: event
 category: event
 title: February Meetup - Making a Scrolling Mapstory
 author: Sarah
+date: 2016-02-22
 rsvp: http://www.meetup.com/MaptimeYVR/events/228887676/
 ---
 ***
