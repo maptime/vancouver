@@ -35,6 +35,6 @@ Bring a friend and come to Maptime - we are looking forward to seeing you there!
 
 ### Participate in the session with the etherpad link here:
 
-[Maptime Scribbles](https://public.etherpad-mozilla.org/p/2015-11-25-maptime-yvr-scribbles)
+[Maptime Scribbles](https://public.etherpad-mozilla.org/p/2016-02-22-maptime-yvr)
 
 ### The link to the tutorial is [here](https://github.com/joeyklee/mapboxjs-scroll-driven-adventure)
