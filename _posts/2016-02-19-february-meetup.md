@@ -30,8 +30,8 @@ Maptime Organizer [Joey Lee](https://twitter.com/leejoeyk) will lead the stellar
 
 Bring a friend and come to Maptime - we are looking forward to seeing you there! 
 
-<!--### Join online via google hangouts at this link here:-->
-<!--[Maptime Hangout](https://talkgadget.google.com/hangouts/_/64k4cln4733ebc33n6zeaq7xxma)-->
+### Join online via google hangouts at this link here:
+[Maptime Hangout](https://talkgadget.google.com/hangouts/_/64k4cln4733ebc33n6zeaq7xxma)
 
 ### Participate in the session with the etherpad link here:
 
